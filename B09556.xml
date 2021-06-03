@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The words of a new interlude, called the Four seasons, or Love in every age. And of all the musical entertainments, in the new opera, called the Island Princess, or The generous Portuguese. Performed at the Theatre Royal. / Written by Mr. Motteux.</title>
+            <author>Motteux, Pierre Antoine.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09556</idno><idno type="EEBO-CITATION">80923220</idno>
+  <idno type="VID">191931</idno>
+  <idno type="EEBO-PROQUEST">2240861203</idno>
+  
+            <idno type="OCLC"> 80923220</idno>
+            <idno type="STC">Wing M2966</idno>
+            <idno type="STC">ESTC R180772</idno>
+            <idno type="OCLC">80923220</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191931)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The words of a new interlude, called the Four seasons, or Love in every age. And of all the musical entertainments, in the new opera, called the Island Princess, or The generous Portuguese. Performed at the Theatre Royal. / Written by Mr. Motteux.</title>
+                  <author>Motteux, Pierre Antoine.</author>
+                  <author>Motteux, Peter Anthony, 1660-1718. Island princess.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Basset, at the George over against the Inner-Temple-Lane in Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Without music.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Librettos</term>
+               <term type="topical_term">Musical theater --  England --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191931:1"/>
+            <pb facs="tcp:191931:1"/>
+            <pb facs="tcp:191931:2"/>
+            <pb facs="tcp:191931:2"/>
+            <p>THE Words of a New Interlude, CALLED THE FOUR SEASONS, OR LOVE in every AGE. AND Of all the Musical Entertainments, IN THE NEW OPERA, CALLED THE Island Princess, OR THE <hi>Generous Portuguese.</hi> Performed at the THEATRE ROYAL. Written by Mr. <hi>Motteux.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Basset,</hi> at the George over against the <hi>Inner-Temple-Lane</hi> in <hi>Fleetstreet.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:191931:3"/>
+            <pb facs="tcp:191931:3"/>
+            <head>PROLOGUE: Sung by Mr. <hi>Leveridge.</hi>
+            </head>
+            <lg n="1">
+               <head>1.</head>
+               <l>YOu've been with dull Prologues here banter'd so long,</l>
+               <l>They signifie nothing, or less than a Song.</l>
+               <l>To Sing you a Ballad this time we thought fit;</l>
+               <l>For sound has oft nick'd you, when Sense cou'd not hit.</l>
+               <l>Then Ladies be kind,</l>
+               <l>And Gentlemen mind!</l>
+               <l>Wit-Carpers,</l>
+               <l>Play-Sharpers,</l>
+               <l>Loud Bullies,</l>
+               <l>Tame Cullies,</l>
+               <l>Sowre Grumblers,</l>
+               <l>Wench-Bumblers,</l>
+               <l>Give Ear, ev'ry Man!</l>
+               <l>Mobb'd Sinners,</l>
+               <l>In Pinners,</l>
+               <l>Kept-Toppers,</l>
+               <l>Bench-Hoppers,</l>
+               <l>High-Fliers,</l>
+               <l>Pit-Plyers,</l>
+               <l>Be still, if you can!</l>
+               <l>You're all in Damnation for leading the Van.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Ye Side-box Gallants, whom the Vulgar call Beaux,</l>
+               <l>Admirers of—Self, and nice Judges of—Cloaths,</l>
+               <l>Who, now the War's over cross boldly the Main,</l>
+               <l>Yet ne're were at Sieges, unless at <hi>Campeigne.</hi>
+               </l>
+               <pb facs="tcp:191931:4"/>
+               <l>Spare all, on the Stage,</l>
+               <l>Love in every Age.</l>
+               <l>Young Tattles,</l>
+               <l>Wild Rattles,</l>
+               <l>Fan-Tearers,</l>
+               <l>Mask-Fleerers,</l>
+               <l>Old Coasters,</l>
+               <l>Love Boasters,</l>
+               <l>Who set up for Truth!</l>
+               <l>Young Graces,</l>
+               <l>Black Faces,</l>
+               <l>Some faded,</l>
+               <l>Some jaded,</l>
+               <l>Old Mothers,</l>
+               <l>And Others,</l>
+               <l>Who've yet a Colts-Tooth.</l>
+               <l>See us act that in Winter, you'd all act in youth,</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Ye Gallery haunters, who Love to Lie Snug,</l>
+               <l>And munch Apples or Cakes while some Neighbour you hug.</l>
+               <l>Ye loftier Genteels, who above us all sit,</l>
+               <l>And look down with contempt on the Mob in the Pit!</l>
+               <l>Here's what you like best,</l>
+               <l>Jig, Song, and the rest.</l>
+               <l>Free Laughers,</l>
+               <l>Close Gaffers,</l>
+               <l>Dry Joakers,</l>
+               <l>Old Soakers,</l>
+               <l>Kind Cousins</l>
+               <l>By Dozens,</l>
+               <l>Your Custom don't break!</l>
+               <l>Sly Spouses</l>
+               <l>With Blowzes,</l>
+               <l>Grave Horners,</l>
+               <l>In Corners,</l>
+               <l>Kind No-Wits,</l>
+               <l>Save-Poets,</l>
+               <l>Clap till your hands ake;</l>
+               <l>And though the Wits damn us, we'll say the Whims take.</l>
+            </lg>
+         </div>
+         <div n="2" type="act">
+            <pb n="1" facs="tcp:191931:4"/>
+            <head>ACT II. A MASQUE.</head>
+            <byline>The Music by Mr. <hi>Daniel Purcel.</hi> The words fitted to the Notes by the Author.</byline>
+            <stage>Several-Arcadian Shepherds advance and express their Joy for the News brought 'em.</stage>
+            <p>Whatever is mark'd thus (") is left out in the singing.</p>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Leveridge.</hi>
+                     </note> Shepherd.</hi>
+               </speaker>
+               <l>THIS glorious Day, let Pleasures flow;</l>
+               <l>Now Love and Hymen jar no more:</l>
+               <l>Ye Sports, appear, let Sorrow cease below!</l>
+               <l>Hither repair, the Golden Age restore.</l>
+               <l>Let Mortals share the Blessings of the Skies,</l>
+               <l>See <hi>Jove</hi> for ever cease to rove,</l>
+               <l>And own, tho' Nuptial Fewds arise,</l>
+               <l>No Joys can Vye with Lawful Love.</l>
+            </sp>
+            <pb n="2" facs="tcp:191931:5"/>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Freeman.</hi>
+                     </note>
+                  </hi> A Shepherd.</speaker>
+               <l>Happy he who wisely chose</l>
+               <l>To taste of Love without his Woes.</l>
+               <l>"Happy She whose Charms improve</l>
+               <l>"The soft Delights of Harmless Love.</l>
+            </sp>
+            <sp>
+               <speaker>CHORUS.</speaker>
+               <l>
+                  <hi>Change may raise a wanton Fire,</hi>
+               </l>
+               <l>
+                  <hi>But Truth can best improve Desire,</hi>
+               </l>
+               <l>
+                  <hi>And Kindles, never to expire.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Pate</hi> and Mr. <hi>Leveridge.</hi>
+                     </note>
+                  </hi> Two Shepherds.</speaker>
+               <l>Cease, ye Rovers, cease to Range</l>
+               <l>Pleasure revels least in Change.</l>
+               <l>Wandring still, and still uneasy,</l>
+               <l>Nought can fix ye, nought can please ye;</l>
+               <l>While True Love, like Heav'nly Joys,</l>
+               <l>Never dies, and never cloys.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mis <hi>Campion.</hi>
+                     </note>
+                  </hi> A Shepherdess.</speaker>
+               <l>From drooping Minds let Sorrow fly,</l>
+               <l>Joy must reign, and Anguish die.</l>
+               <l>Souls who grieve for Coy Denying,</l>
+               <l>Hearts now raging, Wrethes dying,</l>
+               <l>Know, that Lovers who pursue,</l>
+               <l>Soon or late the Fair subdue.</l>
+               <l>Blame your Fear when you despair,</l>
+               <l>Not the wishing dying Fair.</l>
+            </sp>
+            <pb n="3" facs="tcp:191931:5"/>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Magnus</hi>'s Boy.</note>
+                  </hi> A Shepherd.</speaker>
+               <l>All the Pleasures, Hymen brings</l>
+               <l>Lawful Sweets, and chast Desires</l>
+               <l>All the Pleasures Hymen brings,</l>
+               <l>Flow from ever-living Springs,</l>
+               <l>And never-dying Fires.</l>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mis <hi>Lindsey.</hi>
+                     </note>
+                  </hi> A Sheperdess.</speaker>
+               <l>The Jolly Swains</l>
+               <l>That were roving o're Plains</l>
+               <l>From all Regions hither fly,</l>
+               <l>To claim kind Hymen's gentle Tye.</l>
+               <l>With their wanton Motions courting</l>
+               <l>Some lovely Maid</l>
+               <l>Whose Eyes persuade</l>
+               <l>To soft Delights, and am'rous Sporting.</l>
+            </sp>
+            <stage>Enter Swains and Shepherdesses, who dance.</stage>
+            <sp>
+               <speaker>Grand CHORUS.</speaker>
+               <l>
+                  <hi>Love's Flame divinely burns:</hi>
+               </l>
+               <l>
+                  <hi>The Golden Age returns.</hi>
+               </l>
+               <l>Jove, Juno, <hi>and</hi> Cupid, <hi>and</hi> Hymen <hi>agree,</hi>
+               </l>
+               <l>
+                  <hi>All Hearts thus are bless'd, and less happy when free.</hi>
+               </l>
+            </sp>
+         </div>
+         <div n="3" type="act">
+            <pb n="4" facs="tcp:191931:6"/>
+            <head>ACT III. <hi>A SONG.</hi>
+            </head>
+            <l>LOvely Charmer, dearest Creature,</l>
+            <l>Kind Invader of my heart,</l>
+            <l>Grac'd with ev'ry guist of Nature,</l>
+            <l>Rais'd with ev'ry grace of Art!</l>
+            <l>Oh! cou'd I but make thee love me,</l>
+            <l>As thy Charms my heart have mov'd,</l>
+            <l>None cou'd e're be blest above me,</l>
+            <l>None cou'd e're be more belov'd.</l>
+         </div>
+         <div n="4" type="act">
+            <head>
+               <hi>ACT IV.</hi> A Dialogue between a Clown and his Wife. Sung by Mr. <hi>Pate,</hi> and Mr. <hi>Leveridge.</hi>
+            </head>
+            <byline>
+               <hi>Set by Mr.</hi> Leveridge.</byline>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>HOld, <hi>John,</hi> e're you leave me, i'troth I will know</l>
+               <l>Whither so smugg'd up thus early you go?</l>
+               <l>With clean Hands and Face,</l>
+               <l>Your best Band with a Lace</l>
+               <l>Your Sunday Reparel when you shou'd go Plough,</l>
+               <l>So trim none wou'd think you a married Man now.</l>
+               <pb n="5" facs="tcp:191931:6"/>
+               <l>Hold, <hi>John,</hi> e're you leave me, e'troth I will know</l>
+               <l>Whither so smugg'd up thus early you go?</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Go, <hi>Joan,</hi> I wo'n't tell you: To lead a sweet Life</l>
+               <l>I've learnt of my Betters to steal from my Wife.</l>
+               <l>Mayhaps with my Neighbour I'll dust it away,</l>
+               <l>Mayhaps play at Put, or some other such Play.</l>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>I guess at what game you'd be playing to day. <stage>follows him.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Don't plague me. The Devil's in Women I think.</l>
+               <l>Go, <hi>Joan,</hi> I tell thee I'm going to drink?</l>
+               <l>Come, prithee, don't think that I've got no more Grace:</l>
+               <l>Nay go, or I'll gi' thee a Dowse in the Face.</l>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>I'll find then some body to strike in your Place.</l>
+               <l>Why should you deny me? I never did you. <stage>Weeping.</stage>
+               </l>
+               <l>Because I an't new, you won't give me my due,</l>
+               <l>But Troth, if you wo' not, another shall do.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>If thus you e're do,</l>
+               <l>Oh! how I'll belabour your Booby and You. <stage>Threatning.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>If thus you e're do,</l>
+               <l>Oh how I'll belabour your Trollop and You.</l>
+            </sp>
+            <stage>They beat one another.</stage>
+            <sp>
+               <speaker>Both.</speaker>
+               <l>Oh how I'll belabour your Booby and You. </l>
+               <l>Oh how I'll belabour your Trollop and you, and you,</l>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>Well, <hi>John,</hi> do not go, <stage>Wheadling and crying.</stage>
+               </l>
+               <l>And I wo'not do so,</l>
+               <l>Do not go, my dear <hi>Johny,</hi>
+               </l>
+               <l>My Precious, my Hony. <stage>She kisses him.</stage>
+               </l>
+               <l>Oh pray do not go,</l>
+               <l>And I wo'not do so.</l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>Adsooks by that buss I'm inveigled to stay,</l>
+               <l>Come, <hi>Joan,</hi> come and spoil me from going astray.</l>
+            </sp>
+            <stage>CHORUS.</stage>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>
+                  <hi>Come, give your best Band.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>
+                  <hi>Here take my best Band.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <l>
+                  <hi>Now, give me thy hand.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Man.</speaker>
+               <l>
+                  <hi>Thus 'tis with you Women.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <l>
+                  <hi>Thus 'tis with you men.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Both.</speaker>
+               <l>
+                  <hi>Whene're you fall out 'tis to fall in again.</hi>
+               </l>
+            </sp>
+            <div type="song">
+               <pb n="6" facs="tcp:191931:7"/>
+               <head>An Incantation set by Mr. <hi>D. Purcell.</hi>
+               </head>
+               <l>'HEar thou by whom the rattling Thunder's hurl'd!</l>
+               <l>'Hear, Parent Sun, bright Eye, and Monarch of the World.</l>
+               <sp>
+                  <speaker>
+                     <hi>
+                        <note place="margin">Mr. <hi>Bowen.</hi>
+                        </note>
+                     </hi> Priest.</speaker>
+                  <l>Hear, gentle Moon, pale Queen of Night,</l>
+                  <l>And ye refulgent Orbs of Light:</l>
+                  <l>Great Court of Heaven so ample and so high</l>
+                  <l>And all ye swarming Commons of the Sky.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORUS.</speaker>
+                  <l>
+                     <hi>O Skies! O Sea! O Earth! O Hell! on all</hi>
+                  </l>
+                  <l>
+                     <hi>Your Pow'rs we call.</hi>
+                  </l>
+                  <l>
+                     <hi>E're the Blasphemers fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Oh hear our solemn call.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>
+                        <note place="margin">Mr. <hi>Freeman.</hi>
+                        </note>
+                     </hi> Another Priest.</speaker>
+                  <l>Hear, ye friendly earthly Powers,</l>
+                  <l>Gods of kindly Fruits and Flowers,</l>
+                  <l>Who, unseen, delight to trip</l>
+                  <l>Where Birds flutter, hop, and skip,</l>
+                  <l>Where they warble, chirp, and coo,</l>
+                  <l>Where in Whispers Zephirs woo,</l>
+                  <l>Where poor Eccho sweetly grieves,</l>
+                  <l>And remurmurs thro' the Leaves.</l>
+               </sp>
+               <pb n="7" facs="tcp:191931:7"/>
+               <sp>
+                  <speaker>
+                     <hi>
+                        <note place="margin">Mr. <hi>Pate.</hi>
+                        </note>
+                     </hi> Another Priest.</speaker>
+                  <l>Rouse, ye Gods of the main!</l>
+                  <l>Take Vengeance on those who your Altars prophane.</l>
+                  <l>Hush no more the loud Storms! Command thern to blow,</l>
+                  <l>Till foaming with Rage the Waves roar as they flow,</l>
+                  <l>"While they heave and they swell,</l>
+                  <l>'Toss the Slaves to the Skies, and then plunge 'em to hell.</l>
+                  <l>Infernal Pow'rs, grim sullen sprights,</l>
+                  <l>Who fill our Souls with dire affrights!</l>
+                  <l>"By all your burning Lakes,</l>
+                  <l>"Your Furies, Racks, and Snakes.</l>
+                  <l>"By your cold Icy Seas</l>
+                  <l>"Where wretches lingring freeze,</l>
+                  <l>"By all the sobs and moans,</l>
+                  <l>"By all the bursting Groans,</l>
+                  <l>By all the dismal yell,</l>
+                  <l>And horrors of your hell,</l>
+                  <l>Your dreadful Pleasure tell.</l>
+                  <stage>End with the Verse, <hi>Hear ye Gods of the main,</hi> &amp;c.</stage>
+               </sp>
+               <sp>
+                  <speaker>The <hi>Chorus</hi> is repeated.</speaker>
+                  <l>
+                     <hi>O Skies! O Sea! O Earth! O Hell! on all</hi>
+                  </l>
+                  <l>
+                     <hi>Your Pow'rs we call.</hi>
+                  </l>
+                  <l>
+                     <hi>E're the Blasphemers fall,</hi>
+                  </l>
+                  <l>
+                     <hi>Oh hear our solemn call.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div type="song">
+               <pb n="8" facs="tcp:191931:8"/>
+               <head>The Enthusiastic SONG.</head>
+               <byline>Set, Sung, and Acted, by Mr. <hi>Leveridge.</hi>
+               </byline>
+               <lg>
+                  <l>OH Cease, cease urge no more the God to swell my Breast!</l>
+                  <l>The Mansion dreads the great Guest.</l>
+                  <l>But lo! he comes! I shake! I feel, I feet his Sway,</l>
+                  <l>And now he hurries me along.</l>
+                  <l>Then, Crouds, believe, and, Kings, obey,</l>
+                  <l>'Tis Heav'n inspires the Song.</l>
+               </lg>
+               <lg>
+                  <l>Haste! To the Gods due Vengeance give.</l>
+                  <l>Hark! From their Seats they cry,</l>
+                  <l>Who lets Blasphemers live,</l>
+                  <l>Shall by Blasphemers die.</l>
+                  <l>Haste, haste, due Vengeance give.</l>
+                  <l>"Let the Sound</l>
+                  <l>"Eccho all around.</l>
+                  <l>Haste, haste, due Vengeance, Vengeance give.</l>
+                  <l>Beware! Ten thousand, thousand threatning Ills I see!</l>
+                  <l>Invasions! Wars! Plagues! Ruin! Endless Woes!</l>
+                  <l>Ah wretched Isle, I weep for Thee,</l>
+                  <l>Save, save thy self, Resign the God's Blaspheming Foes.</l>
+                  <l>Now, now the Thunder roars.</l>
+                  <l>The Earth now groans and quakes.</l>
+                  <l>The rising Main a Deluge pours.</l>
+                  <l>The World's Foundation shakes.</l>
+                  <l>Hell gapes! The Fiends appear!</l>
+                  <l>Oh hold, ye angry Pow'rs, relent, of we dispair.</l>
+                  <l>See, we fulfill</l>
+                  <l>On your Foes your dreadful Will.</l>
+                  <l>See the Throng,</l>
+                  <l>Hoot 'em, as they're dragg'd along.</l>
+                  <pb n="9" facs="tcp:191931:8"/>
+                  <l>Now they tear'em, now they die;</l>
+                  <l>All applaud, and shout for Joy.</l>
+               </lg>
+               <lg>
+                  <l>Peace returns, all Nature smiles</l>
+                  <l>Happy Days now bless our Isles.</l>
+                  <l>Now we laugh with Plenty crown'd,</l>
+                  <l>Merry Sports and Love go round.—</l>
+               </lg>
+               <lg>
+                  <l>"The Vision's o're! —The God deserts my Brest.</l>
+                  <l>"Hush! gently bear me hence to Rest, <stage>he is led off.</stage>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div n="5" type="act">
+            <pb n="10" facs="tcp:191931:9"/>
+            <head>ACT V. THE FOUR SEASONS: OR Love in every Age, A <hi>Musical Interlude.</hi>
+            </head>
+            <byline>Set to Music by Mr. <hi>Jeremy Clarke.</hi>
+            </byline>
+            <p>
+               <hi>This Entertainment was design'd for another Season, and another Oc<g ref="char:EOLhyphen"/>casion: And what is mark'd thus (") is omitted.</hi>
+            </p>
+            <p>THe Overture is a Symphony, lofty, yet gay: At the latter part, it changes to a flat adagio; to which mournful Movement</p>
+            <stage>The Genius of the Stage appears in a melancholic Posture, with attendants.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Leveridge.</hi>
+                     </note> Genius.</hi>
+               </speaker>
+               <l>"Mourn, drooping Seat of Pleasures, mourn.</l>
+               <l>"Mourn what all others bless, the Summer's warm Return.</l>
+            </sp>
+            <sp>
+               <speaker>Chorus of Attendants.</speaker>
+               <l>
+                  <hi>Mourn drooping, Seat of Pleasures, mourn!</hi>
+               </l>
+               <pb n="11" facs="tcp:191931:9"/>
+               <l>"Thy darling Guests, thy fair, thy best Supports,</l>
+               <l>"For rival Fields forsake our lovely Sports:</l>
+               <l>"We grieve alone, while Birds and Shepherds Sing.</l>
+               <l>"Alas, we bear a Winter in the Spring.</l>
+            </sp>
+            <stage>CHORƲS.</stage>
+            <sp>
+               <speaker>Chorus.</speaker>
+               <l>Mourn drooping Seat of Pleasures, Mourn!</l>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Freeman.</hi>
+               </speaker>
+               <l>
+                  <hi>While a gay March is perform'd</hi> Apollo <hi>appears.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Appollo.</speaker>
+               <lg>
+                  <l>Rouse, rouse, ye tuneful Sons of Art!</l>
+                  <l>The God of Numbers and of Days,</l>
+                  <l>Infusing Life in ev'ry Part,</l>
+                  <l>Appears, your fainting hopes to raise.</l>
+                  <l>"Advance in Crouds, soft Pleasures, sprightly Joys,</l>
+                  <l>"Tune ev'ry Lyre, raise ev'ry voice.</l>
+                  <l>"Advance, soft Pleasures, sprightly Joys.</l>
+                  <l>"While your<note n="*" place="margin">
+                        <hi>Mr.</hi> Henry Purcel.</note>
+                     <hi>Amphion</hi> plai'd, and Sung,</l>
+                  <l>"Your <hi>Thebes</hi> in decent Order sprung.</l>
+                  <l>"Let harmony be thus employ'd,</l>
+                  <l>"To raise what Discord has destroy'd;</l>
+                  <l>"And Musick, that ev'n Trees can move,</l>
+                  <l>"Shall draw the Fair from ev'ry Grove.</l>
+               </lg>
+               <lg>
+                  <l>Revive, ev'ry Pleasure, and die, ev'ry Care!</l>
+                  <l>Ye Ages of Life, and ye Seasons appear!</l>
+                  <l>Show now, that, as Love in all Ages can warm,</l>
+                  <l>So Harmony here in all Seasons can charm.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>The Chorus repeat from</speaker>
+               <l>Revive ev'ry Pleasure, and die ev'ry Care! <hi>&amp;c.</hi>
+               </l>
+            </sp>
+            <stage>
+               <hi>While the Chorus repeat that verse, the Scene changes, and dis<g ref="char:EOLhyphen"/>covers the four Seasons, on four several Stages. The Genius and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of his Attendants withdraw.</hi>
+            </stage>
+            <pb n="12" facs="tcp:191931:10"/>
+            <stage>Enter a Girl of Thirteen or Fourtween years old.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Miss <hi>Campion.</hi>
+                     </note> Girl.</hi>
+               </speaker>
+               <l>MUST I a Girl for ever be!</l>
+               <l>Will n'er my Mother marry me!</l>
+               <l>They tell me I'm Pretty,</l>
+               <l>They tell me I'm Witty:</l>
+               <l>But when I would Marry,</l>
+               <l>She cry's, I must tarry,</l>
+               <l>Must I a Girl for ever be!</l>
+               <l>Will ne're my Mother marry me!</l>
+            </sp>
+            <stage>Enter a Youth.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Magnes's Boy.</hi>
+                     </note> Youth.</hi>
+               </speaker>
+               <l>OH! Miss! The Spring is come again,</l>
+               <l>The pretty Birds sing, bill, and cooe.</l>
+               <l>All dance in Couples on the Green:</l>
+               <l>'Tis time we shou'd be doing too.</l>
+               <l>My Dear, let's marry; then we'll try,</l>
+               <l>Why Men and Maids together lye.</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>Peace, naughty Thing! I heard one say</l>
+               <l>That Marriage is no Children's Play.</l>
+               <l>Think you to have me for a Song?</l>
+               <l>Besides, they tell me I'm too young:</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>No, now to wed betimes is common;</l>
+               <l>When e're you marry, you're a Woman,</l>
+               <l>Come, I must have you, quickly too,</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>Fy, why d'you make so much ado? <stage>he kisses her.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Fy, I'm asham'd! Fy, what d'you do?</l>
+            </sp>
+            <stage>Both repeat their last last Line together.</stage>
+            <pb n="13" facs="tcp:191931:10"/>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Be quiet, or I'll call my Mother.</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>Nay, prethee, let me take another.</l>
+            </sp>
+            <stage>Both repeat their last Line together.</stage>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Another Kiss, and then —</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>What then?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Another, and another.</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>"I fear I should repent my Choice,</l>
+               <l>"And marry nothing but a Voice:</l>
+               <l>"But tho' 't wou'd spoil my Shape and Growth,</l>
+               <l>Wer't you a Man, I'd venture both.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Nay, never fear, you'll quickly know,</l>
+               <l>Tho I am little, soon I'll grow.</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>Oh, no, no, no. Oh, no, no, no.</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Oh let us go. You'll find it so.</l>
+               <stage>They repeat their last Line together for a Chorus.</stage>
+               <stage>He goes off with her.</stage>
+            </sp>
+            <p>The Dance of Spring here.</p>
+            <stage>Enter two young Lasses with Baskets of Flowers, and Nosegays in their hands. They Dance.</stage>
+            <stage>Enter to them two young Sparks, the Lasses, dancing, offer 'em Nosegays, curtisying, and smiling. The Sparks make love to 'em and carry 'em off.</stage>
+            <stage>Enter a Country Lass with a Rake, as at Hay-making.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mis <hi>Lindsey.</hi>
+                     </note>
+                  </hi>
+               </speaker>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>"Oh Why thus alone must I pass the long day!</l>
+                  <l>"Where a Gentleman by, 'twere sweet to make hay,</l>
+                  <l>"And on the Grass coupled to jig it away.</l>
+                  <l>"I'll then go sell all, ev'n my Rake and my Pail,</l>
+                  <l>"To buy a high Topping, and hugeous long Tail.</l>
+                  <l>"Your Powder'd wild Bores will then all come to woo,</l>
+                  <l>"I'll learn how to flaunt it, and quickly come too,</l>
+                  <l>"And serve a Town Husband, as other Wives do.</l>
+               </lg>
+               <pb n="14" facs="tcp:191931:11"/>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>"I hate a dull Clown who knows hardly what's what,</l>
+                  <l>"Who shrugging and grinning stands twirling his Hat,</l>
+                  <l>"Nor dares tell a Body what he wou'd be at.</l>
+                  <l>"With smoke and worse Liquor he sots and he Feasts,</l>
+                  <l>"And instead of his Mistress he fondles his Beasts.</l>
+                  <l>"With his hands in his Pockets he whistling goes by,</l>
+                  <l>"Or by me on a Hay-cock he snoring does lie,</l>
+                  <l>"When the Booby much better himself might employ.</l>
+               </lg>
+            </sp>
+            <stage>Enter a Gentleman.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Leveridge.</hi>
+                     </note> Gent.</hi>
+               </speaker>
+               <lg>
+                  <l>'Tis sultry Weather, Pretty Maid,</l>
+                  <l>Come, let's retire to yonder shade. <stage>She stands bashfully hiding her face.</stage>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Pray, why so shy? Why thus d'ye stand?</l>
+                  <l>Sure 'Tis no Crime to touch your hand.</l>
+                  <l>Oh let me take a civil kiss! <stage>She Curtsies when he kisses her.</stage>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What harm is there in doing this?</l>
+                  <l>Fy, why d'ye cover thus your Brest?</l>
+                  <l>One Favour more, and then I'm blest. <stage>She bashfully puts him off.</stage>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <l>Oh pray, Sir.</l>
+               <l>Nay, nay, Sir.</l>
+               <l>Oh fie, Sir.</l>
+               <l>Oh why, Sir,</l>
+               <l>Why do you</l>
+               <l>Now pull me thus to you?</l>
+               <l>
+                  <stage>(Aside.)</stage> Oh what shall I say!</l>
+               <l>When a Gentleman suiters 'tis hard to say nay—</l>
+               <l>I'm e'en out of Breath; Oh, dear! what d'ye do?</l>
+               <l>Good La! Is it thus that you Gentlefolks woo.</l>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <l>"Oh how the moments sweetly pass,</l>
+               <l>"In shady Groves, upon the Grass,</l>
+               <l>"With a fresh, sprightly Country Lass!</l>
+               <pb n="15" facs="tcp:191931:11"/>
+               <l>"Thus fair with native Charms alone;</l>
+               <l>"Modest, yet easie to be won:</l>
+               <l>"She gives us ev'ry Joy in one.</l>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <p>Good, Sir, do not hold me.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Good Lass, do not fly.</p>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <p>What good can I do you?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Come yonder, we'll try.</p>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <p>I vow, I can't find in my heart to deny.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Oh come to the Grove.</p>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <l>Oh I dare not, I swear.</l>
+               <l>I'm afraid of the Serpents that sting Women there.</l>
+               <l>One stung my poor Sister, and made her so swell,</l>
+               <l>'Tis now almost ninemonths, and she's not yet well.</l>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <l>Here, I give you a Charm <stage>he gives her a Ring.</stage>
+               </l>
+               <l>To keep you from harm.</l>
+               <l>Secur'd by the Ring</l>
+               <l>Women venture the sting.</l>
+            </sp>
+            <sp>
+               <speaker>Lass.</speaker>
+               <p>Oh! what shall I give you for such a fine Thing?</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>Oh come, come, you'll give me another fine Thing.</p>
+            </sp>
+            <stage>He goes off with her, each repeating their last verse.</stage>
+            <stage>Exeunt.</stage>
+            <stage>
+               <hi>Enter an</hi> African <hi>Lady, with Slaves who dance with Timbrels. A</hi> Negro <hi>Lord makes Love to her. They go off together.</hi>
+            </stage>
+            <pb n="16" facs="tcp:191931:12"/>
+            <stage>Enter a Lusty Strapping Middle-ag'd Widow all in Mourn<g ref="char:EOLhyphen"/>ing. She weeps and blubbers.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Pate.</hi>
+                     </note>
+                  </hi>
+               </speaker>
+               <l>OH my poor Husband! For ever he's gone!</l>
+               <l>Alas! I'm undone.</l>
+               <l>I sigh, and I moan.</l>
+               <l>Must I these cold Nights lie alone!</l>
+               <l>Alas! I'm undone—</l>
+               <l>I did what I list:</l>
+               <l>We kist, and we kist:</l>
+               <l>But his Health soon he mist,</l>
+               <l>And thro Business and Care he ceas'd to be gay</l>
+               <l>And at last, poor Soul! he dwindled away,</l>
+               <l>We wrangled</l>
+               <l>And jangled</l>
+               <l>When in an ill mood,</l>
+               <l>Yet often like Pigeons we bill'd and we coo'd.</l>
+               <l>'Tis done.</l>
+               <l>Oh! he's gone</l>
+               <l>Alack, and alack</l>
+               <l>I must now for ever do Penance in Black.</l>
+            </sp>
+            <stage>Enter a Drunken Officer, Reeling, he hickups.</stage>
+            <sp>
+               <speaker>
+                  <hi>
+                     <note place="margin">Mr. <hi>Leveridge.</hi>
+                     </note> Offi.</hi>
+               </speaker>
+               <l>WHy, Widow, why Widow! What makes thee so sad?</l>
+               <l>Art thou mad?</l>
+               <l>If one Husband is gone, there are more to be had.</l>
+               <l>Come, I'll be thy Hony! — Leave keeping a Pother,</l>
+               <l>One Man like one Nail serves to drive out another.</l>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <l>How! Talk so to me! What, think you I'd Wed?</l>
+               <l>'Tis scarce a Month yet since my poor Hony's dead.</l>
+            </sp>
+            <pb n="17" facs="tcp:191931:12"/>
+            <sp>
+               <speaker>Offi.</speaker>
+               <l>A Month! 'Tis an Age. You're mad to delay.</l>
+               <l>Most Widows now chuse e're the Funeral Day.</l>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>Not I: I'll ne're do't. Fy, what would People say?</p>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <l>They'll say, you're a Woman. Come, away with this Fan,</l>
+               <l>See! See! —here's a Shape! —here's a Grace,—here's a Leg! here's a Man,</l>
+               <l>I'll get thee with Twins, till a hundred and ten.</l>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>You lie,—go, you'll talk at another rate then. <stage>She pats him in a smiling way.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <p>Then try me.</p>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>Leave fooling.</p>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <l>I'll do't by this Kiss.</l>
+               <l>By this, this, and this!</l>
+               <l>I'll be hang'd if I miss.</l>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>Oh should I do this!</p>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <p>Twill ease you of Pain.</p>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>Go, you're a sad Man!</p>
+            </sp>
+            <sp>
+               <speaker>Offi.</speaker>
+               <p>I'll kill thee with Kindness.</p>
+            </sp>
+            <sp>
+               <speaker>Wi.</speaker>
+               <p>Ay, do if you can.</p>
+            </sp>
+            <stage>They repeat their last Line, and he hurries her away. Exeunt.</stage>
+            <stage>A French Country-woman with Grapes and other Fruits comes in, in Wooden Shoes, a French Vintage-maker make Love to her in a dance, and goes off with her.</stage>
+            <pb n="18" facs="tcp:191931:13"/>
+            <stage>
+               <hi>While four of five Bars are perform'd by a Thorough Base, enter an Old Gentle<g ref="char:EOLhyphen"/>man, in an Old-fashion'd Dress<note place="margin">Mr. <hi>Crossfield.</hi>
+                  </note>, following a Young Lass, or Girl<note place="margin">Mis <hi>Campion.</hi>
+                  </note>, and pushing a Youth from her<note place="margin">The Boy.</note>. An Old Woman, in an Old-fashion'd Dress <note place="margin">Mis <hi>Lindsey.</hi>
+                  </note>, comes and Thrusts him away from the Young Couple. The Old Woman sings like one without Teeth.</hi>
+            </stage>
+            <sp>
+               <speaker>Old Wom.</speaker>
+               <l>HOld, good Mr. <hi>Fumble.</hi> Fy! What do you mean,</l>
+               <l>To court my Grand Daughter? She's scarce yet fifteen.</l>
+               <l>And you, H'usi'fe; why stay you? go get you to School.</l>
+               <l>Your Baby go dandle,</l>
+               <l>I'll handle</l>
+               <l>This doating old Tool.</l>
+            </sp>
+            <sp>
+               <speaker>Old Man.</speaker>
+               <l>Hold, hold!</l>
+               <l>Do not scold.</l>
+               <l>With my Grandson go cooe. <stage>He points to the Youth.</stage>
+               </l>
+               <l>You love him I know.</l>
+               <l>Together go cooe!</l>
+               <l>"Good Lad, prethee do.</l>
+               <l>"Tho he's somewhat bashful, he'll quickly come to</l>
+               <l>I'm not yet so old,</l>
+               <l>I long to be at her, to have and to hold.</l>
+               <l>I'll wed thee, <stage>To the Girl.</stage>
+               </l>
+               <l>I'll bed thee,</l>
+               <l>I'll rouse thee,</l>
+               <l>I'll touze thee,</l>
+               <l>I'll give thee what's better and sweeter than Gold.</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>No, no, you're too old.</l>
+            </sp>
+            <sp>
+               <speaker>Old Man.</speaker>
+               <l>Dear Girl, why so shy?</l>
+            </sp>
+            <sp>
+               <speaker>Girl.</speaker>
+               <l>Old Man, why so dry?</l>
+            </sp>
+            <sp>
+               <speaker>Old Wom.</speaker>
+               <l>Good Lad, how d'you do?</l>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <l>Ne're the better for You.</l>
+            </sp>
+            <sp>
+               <speaker>Old Wom.</speaker>
+               <l>Hold! Boy! I am brisk yet,</l>
+               <l>And gayly can frisk it.</l>
+            </sp>
+            <pb n="19" facs="tcp:191931:13"/>
+            <sp>
+               <speaker>Old Man.</speaker>
+               <l>I've yet three good Teeth, and a Stump:</l>
+               <l>And see I can caper and jump! <stage>Jumps.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Old Wom.</speaker>
+               <l>Why thus do you shun her? What makes you so bold? <stage>To the Boy.</stage>
+               </l>
+               <l>Why thus do you shun him? What makes you so bold? <stage>To the Girl.</stage>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Boy and Girl.</speaker>
+               <l>Indeed you're to old. <stage>Crying as being frighted.</stage>
+               </l>
+               <l>Too old, and too cold.</l>
+            </sp>
+            <sp>
+               <speaker>Old Man.</speaker>
+               <l>I find 'tis in vain! <stage>To the Old Woman.</stage>
+               </l>
+               <l>Come, no longer let's strain.</l>
+               <l>Let the Young take the Young, Let the Old take the Old. <stage>The Old Man goes and takes the Old Woman by the hand, and she him, hugging one another.</stage>
+               </l>
+               <l>We'll hug our selves warm, now the Wea<g ref="char:EOLhyphen"/>ther is cold.</l>
+               <stage>All the the four repeat the last two Lines as a Chorus.</stage>
+               <stage>Enter a Dutch-woman with a Stove warming her self, her Cloaths lin'd with Furs. An Old Miser makes Love to her in a Dance.</stage>
+               <stage>
+                  <hi>Enter</hi> Cupid, <hi>who sings.</hi>
+               </stage>
+               <l>COme all, come all— <stage>Enter the Ages and Seasons.</stage>
+               </l>
+               <l>Let soft Desires your Hearts engage,</l>
+               <l>'Tis sweet to Love in ev'ry Age.</l>
+               <l>Ev'ry Season, ev'ry Creature,</l>
+               <l>Yeilds to Love, and courts his Joys.</l>
+               <l>None are Truer, none are Sweeter</l>
+               <l>When Discretion guides the Choice.</l>
+            </sp>
+            <pb n="20" facs="tcp:191931:14"/>
+            <stage>Cupid <hi>with the Four Ages and the Four Seasons, mingle in a Dance while the following Grand Chorus is sung.</hi>
+            </stage>
+            <sp>
+               <speaker>Grand Chorus of all the Voices and Instruments.</speaker>
+               <l>HAil, God of Desire!</l>
+               <l>Hail, God of the Year!</l>
+               <l>All Ages you fire.</l>
+               <l>All Seasons you cheer.</l>
+               <l>Thus ever conspire,</l>
+               <l>And reign ev'ry where,</l>
+               <l>"Love blooms in on Sping. <stage>The four Parts of Music an<g ref="char:EOLhyphen"/>swerable to the four Ages of Life and Seasons of the Year, sing each the Line that's suitable to them.</stage>
+               </l>
+               <l>"In our <hi>Summer</hi> it grows.</l>
+               <l>"In our <hi>Autumn</hi> 'tis ripe.</l>
+               <l>"In our <hi>Winter</hi> it glows.</l>
+               <stage>Then all together.</stage>
+               <l>Hail, God of Dsiere!</l>
+               <l>Hail, God of the Year!</l>
+               <l>All Ages you fire.</l>
+               <l>All Seasons you cheer.</l>
+               <l>Thus ever conspire,</l>
+               <l>And reign ev'ry where.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
